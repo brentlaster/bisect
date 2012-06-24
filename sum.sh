@@ -1,5 +1,5 @@
 #!/bin/sh
-ver="1.06"
+ver="1.07"
 echo
 echo "Sum program - version $ver"
 echo
@@ -11,7 +11,7 @@ read y
 
 
 # Add the two and show the sum
-exprans=`expr $x + $y`
+exprans=`expr $x - $y`
 
 echo "$x + $y = $exprans"
 
