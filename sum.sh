@@ -1,5 +1,5 @@
 #!/bin/sh
-ver="1.09"
+ver="1.10"
 echo
 echo "Sum program - version $ver"
 echo
